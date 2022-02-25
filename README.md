@@ -4,7 +4,7 @@
 
 - 📱 Mobile Flutter Developer em formação pela [Cubos Academy](https://cubos.academy/) 
 
-- 🤖 Atualmente estou trabalhando na [My Robot School](https://www.myrobot.com.br/)
+- 🤖 Atualmente trabalho como Instrutor de Robótica na [My Robot School](https://www.myrobot.com.br/)
 
 <br><br>
 
