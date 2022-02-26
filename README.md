@@ -6,26 +6,26 @@
 
 - 🤖 Atualmente trabalho como Instrutor de Robótica na [My Robot School](https://www.myrobot.com.br/)
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;<br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-97&show_icons=true&theme=tokyonight"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-97&layout=compact&theme=tokyonight"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-97&show_icons=true"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-97&layout=compact"/>
 </p>
 
 <br><br>
