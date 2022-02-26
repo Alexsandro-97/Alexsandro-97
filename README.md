@@ -1,5 +1,5 @@
 
-<img align="right" height="400em" src="https://raw.githubusercontent.com/gist/Alexsandro-97/8e188d70859c0d85f3181a831c566857/raw/94fde2992b91e33905e765eb789004dc90676ca1/githubcard.svg"/>
+<img align="right" height="380em" src="https://raw.githubusercontent.com/gist/Alexsandro-97/8e188d70859c0d85f3181a831c566857/raw/94fde2992b91e33905e765eb789004dc90676ca1/githubcard.svg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Alexsandro Júnior</h1>
 
 - 📱 Mobile Flutter Developer em formação pela [Cubos Academy](https://cubos.academy/) 
@@ -24,8 +24,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-97&show_icons=true"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-97&layout=compact"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-97&show_icons=true"/><br>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-97&layout=compact"/>
 </p>
 
 <br><br>
