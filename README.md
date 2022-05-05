@@ -1,6 +1,6 @@
 
 <img align="right" height="380em" src="https://raw.githubusercontent.com/gist/Alexsandro-97/8e188d70859c0d85f3181a831c566857/raw/94fde2992b91e33905e765eb789004dc90676ca1/githubcard.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Alexsandro Júnior</h1>
+<h1 align="left">Olá, eu sou o Alexsandro</h1>
 
 - 📱 Mobile Flutter Developer em formação pela [Cubos Academy](https://cubos.academy/) 
 
